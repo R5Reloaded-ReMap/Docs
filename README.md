@@ -2,11 +2,10 @@
 
 ## Introduction
 
-Welcome to the R5Reloaded documentation. Here, you will find our FAQ, Troubleshooting steps for various issues, changelogs, bugfixes, and new features that you can use.
+Welcome to the ReMap documentation. Here, you will find our FAQ, Troubleshooting steps for various issues, changelogs, bugfixes, and new features that you can use.
 
-Use the sidebar to navigate to your desired subject of interest.
+This is a work in progress.
 
 ## How to contribute
 
-Submit a Pull Request to [https://github.com/AyeZeeBB/r5docs](https://github.com/AyeZeeBB/r5docs) and we will analyze it. Do note any feature you document must be part of the official repos.
-
+Submit a Pull Request to [https://github.com/R5Reloaded-ReMap/Docs](https://github.com/R5Reloaded-ReMap/Docs).
