@@ -12,7 +12,7 @@ This window is used to manipulate all the apex assets and the different levels y
 
 **Attention!** Here only the folder `Levels` and `Prefabs` will be useful, don't look elsewhere, this is used for developers.
 
-![Project window Image](/Resources/Documentation/unity-windows/project-window.png)
+![Project Window](/Resources/Documentation/unity-windows/project-window.png)
 
 ### `Levels` Folder
 Is used to save your maps, to create a new one, go to the folder, right click and click on `Create/Scene`.
@@ -23,7 +23,7 @@ This folder contains **95%** of the models of Apex legends in **Season 3**, thes
 
 The principle is just drag and drop in your scene to put a model.
 
-![Project window prefabs Image](/Resources/Documentation/unity-windows/project-window-prefabs.png)
+![Prefabs Folder](/Resources/Documentation/unity-windows/project-window-prefabs.png)
 
 A folder also contains objects such as
 * Doors
@@ -33,7 +33,7 @@ A folder also contains objects such as
 * Jumppads
 * Let you discover the rest
 
-![Project window prefabs custom Image](/Resources/Documentation/unity-windows/project-window-prefabs-custom.png)
+![Custom Prefabs Folder](/Resources/Documentation/unity-windows/project-window-prefabs-custom.png)
 
 
 ## Project Window
@@ -44,7 +44,9 @@ To create an empty folder, you can right click on `Create Empty`.
 
 You can also move them inside like in a file explorer.
 
-![Hierarchy window Image](/Resources/Documentation/unity-windows/hierarchy-window.png)
+![Hierarchy Window](/Resources/Documentation/unity-windows/hierarchy-window.png)
+
+[TODO]
 
 
 ## Inspector Window
