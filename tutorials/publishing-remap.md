@@ -6,10 +6,10 @@ This is the easiest way to share your map with others, you are going to work wit
 
 ### How to share:
 1. In the **Code Views** unity window, click on **Show Live Generation > Show Advanced > Restart Level And Write Script**;
-![Code Views](/Resources/Tutorials/publishing/01_code_views.png)
-2.  In your R5 folder, go to `\platform\scripts\vscripts\mp\levels` and select the file `mp_rr_remap.nut`;
-3. Now you can share the content of the file or the file itself to anyone!
-![File mp_rr_remap](/Resources/Tutorials/publishing/02_mp_rr_remap_file.png)
+2. ![Code Views](/Resources/Tutorials/publishing/01_code_views.png)
+3.  In your R5 folder, go to `\platform\scripts\vscripts\mp\levels` and select the file `mp_rr_remap.nut`;
+4. ![File mp_rr_remap](/Resources/Tutorials/publishing/02_mp_rr_remap_file.png)
+5. Now you can share the content of the file or the file itself to anyone!
 
 ### How to play:
 1. Open the game;
@@ -51,9 +51,9 @@ void function change_me_load() {
 4. Rename all template functions to something that makes sense for your map;
 5. Go to `\platform\scripts\vscripts` and open the file `scripts.rson`;
 6. Locate the line `//maps`, add a new line and type the name of the file you created on *step 1* 
-![Code Views](/Resources/Tutorials/publishing/03_scripts_file.png)
-7. Now you can go to [Flowstate Scripts](https://github.com/ColombianGuy/r5_flowstate), click on Fork, add the files you just worked on to your repo and open a PR in the original repo merging your modifications;
-8. That's it. After your PR being accept, everyone will be able to play your map!
+7. ![Code Views](/Resources/Tutorials/publishing/03_scripts_file.png)
+8. Now you can go to [Flowstate Scripts](https://github.com/ColombianGuy/r5_flowstate), click on Fork, add the files you just worked on to your repo and open a PR in the original repo merging your modifications;
+9. That's it. After your PR being accept, everyone will be able to play your map!
 
 ### How to play:
 1. Update your [Flowstate Scripts](https://github.com/ColombianGuy/r5_flowstate);
