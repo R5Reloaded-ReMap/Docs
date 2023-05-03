@@ -8,3 +8,4 @@
 ## Tutorials
 
 * [Installing Remap](tutorials/installing-remap.md)
+* [Publishing](tutorials/publishing-remap.md)
