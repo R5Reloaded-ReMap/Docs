@@ -1,5 +1,5 @@
 # Publishing
-There are many ways to publish your map, we are going to cover some of them in this tutorial.
+There are many ways to publish your map, we are going to cover some of them in this page.
 
 ## Method 1
 This is the easiest way to share your map with others, you are going to work with just one file.
