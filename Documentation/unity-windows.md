@@ -44,7 +44,7 @@ To create an empty folder, you can right click on `Create Empty`.
 
 You can also move them inside like in a file explorer.
 
-![Hierarchy Window](/Resources/Documentation/unity-windows/hierarchy-window.png) ![Hierarchy Window](/Resources/Documentation/unity-windows/scene-preview.mp4)
+![Hierarchy Window](/Resources/Documentation/unity-windows/hierarchy-window.png)
 
 [TODO]
 
