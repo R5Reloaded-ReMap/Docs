@@ -36,7 +36,7 @@ A folder also contains objects such as
 ![Custom Prefabs Folder](/Resources/Documentation/unity-windows/project-window-prefabs-custom.png)
 
 
-## Project Window
+## Hierarchy Window
 
 This window is used to manage all the objects in your map, you can and should create folders / subfolders to gather parts of your map in one.
 
@@ -44,7 +44,7 @@ To create an empty folder, you can right click on `Create Empty`.
 
 You can also move them inside like in a file explorer.
 
-![Hierarchy Window](/Resources/Documentation/unity-windows/hierarchy-window.png)
+![Hierarchy Window](/Resources/Documentation/unity-windows/hierarchy-window.png) ![Hierarchy Window](/Resources/Documentation/unity-windows/scene-preview.mp4)
 
 [TODO]
 
