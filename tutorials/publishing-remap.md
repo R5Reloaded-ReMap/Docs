@@ -7,7 +7,7 @@ This is the easiest way to share your map with others, you are going to work wit
 ### How to share:
 1. In the **Code Views** unity window, click on **Show Live Generation > Show Advanced > Restart Level And Write Script**;  
 ![Code Views](/Resources/Tutorials/publishing/01_code_views.png)
-2.  In your R5 folder, go to `\platform\scripts\vscripts\mp\levels` and select the file `mp_rr_remap.nut`;  
+2. In your R5 folder, go to `\platform\scripts\vscripts\mp\levels` and select the file `mp_rr_remap.nut`;  
 ![File mp_rr_remap](/Resources/Tutorials/publishing/02_mp_rr_remap_file.png)
 3. Now you can share the content of the file or the file itself to anyone!
 
@@ -62,5 +62,5 @@ void function change_me_load() {
 2. Open the game;
 3. Click on **Create Server** tab;
 4. In the **Select Map** menu, select the corresponding map;
-5. After you get inside the match, open the console (`HOME` key) and type `change_me_init()` function that you created and renamed in *step 2*;
+5. After you get inside the match, open the console (`HOME` key) and type `change_me_init()` function that you created and renamed in *step 2*;  
 If the map doesn't load, type `sv_cheats 1` in the console and try *step 5* again.
