@@ -5,11 +5,11 @@ There are many ways to publish your map, we are going to cover some of them in t
 This is the easiest way to share your map with others, you are going to work with just one file.
 
 ### How to share:
-1. In the **Code Views** unity window, click on **Show Live Generation > Show Advanced > Restart Level And Write Script**;
-2. ![Code Views](/Resources/Tutorials/publishing/01_code_views.png)
-3.  In your R5 folder, go to `\platform\scripts\vscripts\mp\levels` and select the file `mp_rr_remap.nut`;
-4. ![File mp_rr_remap](/Resources/Tutorials/publishing/02_mp_rr_remap_file.png)
-5. Now you can share the content of the file or the file itself to anyone!
+1. In the **Code Views** unity window, click on **Show Live Generation > Show Advanced > Restart Level And Write Script**;  
+![Code Views](/Resources/Tutorials/publishing/01_code_views.png)
+2.  In your R5 folder, go to `\platform\scripts\vscripts\mp\levels` and select the file `mp_rr_remap.nut`;  
+![File mp_rr_remap](/Resources/Tutorials/publishing/02_mp_rr_remap_file.png)
+3. Now you can share the content of the file or the file itself to anyone!
 
 ### How to play:
 1. Open the game;
@@ -21,8 +21,8 @@ This is the easiest way to share your map with others, you are going to work wit
 This is a better way to share your map with the whole community, you are going to work with two files and make them part of the *Flowstate Scripts*.
 
 ### How to share:
-1. Go to `\platform\scripts\vscripts\custom_maps` and create a .nut file;
-(For this tutorial we are going to use `_remap_tutorial.nut` for the name).
+1. Go to `\platform\scripts\vscripts\custom_maps` and create a .nut file;  
+(For this tutorial we are going to use `_remap_tutorial.nut` as the name).
 2. For the content of the new file, use the following template:
 ```cpp
 untyped
@@ -39,6 +39,8 @@ struct {
 file
 
 void function change_me_init() {
+  thread change_me_precache()
+  wait 1
   thread change_me_load()
 }
 
@@ -50,10 +52,10 @@ void function change_me_load() {
 3. Fill the functions with your map props that you can get from the unity **Code Views** window or from the  `mp_rr_remap.nut` file if you went through **Method 1**;
 4. Rename all template functions to something that makes sense for your map;
 5. Go to `\platform\scripts\vscripts` and open the file `scripts.rson`;
-6. Locate the line `//maps`, add a new line and type the name of the file you created on *step 1* 
-7. ![Code Views](/Resources/Tutorials/publishing/03_scripts_file.png)
-8. Now you can go to [Flowstate Scripts](https://github.com/ColombianGuy/r5_flowstate), click on Fork, add the files you just worked on to your repo and open a PR in the original repo merging your modifications;
-9. That's it. After your PR being accept, everyone will be able to play your map!
+6. Locate the line `//maps`, add a new line and type the name of the file you created on *step 1*;  
+![Code Views](/Resources/Tutorials/publishing/03_scripts_file.png)
+7. Now you can go to [Flowstate Scripts](https://github.com/ColombianGuy/r5_flowstate), click on Fork, add the files you just worked on to your repo and open a PR in the original repo merging your modifications;
+8. That's it. After your PR being accept, everyone will be able to play your map!
 
 ### How to play:
 1. Update your [Flowstate Scripts](https://github.com/ColombianGuy/r5_flowstate);
