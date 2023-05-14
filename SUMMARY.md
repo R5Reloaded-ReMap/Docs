@@ -4,6 +4,7 @@
 
 ## Documentation
 * [Windows In Unity](Documentation/unity-windows.md)
+* [ReMap Menu](Documentation/remap-menu.md)
 
 ## Tutorials
 
