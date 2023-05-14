@@ -81,4 +81,4 @@ Use to change the size of the objects.
 Places an object on the nearest floor below itself.
 
 
-![Scene Window](/Resources/Documentation/unity-windows/scene-window-1.png)
+![Scene Window](/Resources/Documentation/unity-windows/scene-window.png)
