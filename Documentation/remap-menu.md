@@ -8,5 +8,5 @@ This menu is almost the only menu of the taskbar that you will use, it contains 
 
 The window that allows to generate code for apex.
 
-See more: [Code Views Window](/Documentation/code-views-window.md)
+See more: [Code Views Window](code-views-window.md)
 
