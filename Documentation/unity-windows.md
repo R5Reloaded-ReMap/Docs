@@ -46,12 +46,39 @@ You can also move them inside like in a file explorer.
 
 ![Hierarchy Window](/Resources/Documentation/unity-windows/hierarchy-window.png)
 
-[TODO]
-
 
 ## Inspector Window
-[TODO]
+
+This window allows you to change the `position` / `angles` / `scale` and the parameters of the object to match your needs in apex.
+
+**Attention!** If you change the scale of objects of type `prop`, apex will only change the `size` of the model and the `collision` will remain the `1:1` scale
+
+![Inspector Window](/Resources/Documentation/unity-windows/inspector-window.png)
 
 
 ## Scene Window
-[TODO]
+
+This window is the preview of your map, you with some tools that will be useful to create your map.
+
+### Hand Tool
+
+Use to move your camera across the map.
+
+### Move Tool
+
+Use to move objects.
+
+### Rotate Tool
+
+Use to rotate objects.
+
+### Scale Tool
+
+Use to change the size of the objects.
+
+### Drop To Ground Tool
+
+Places an object on the nearest floor below itself.
+
+
+![Scene Window](/Resources/Documentation/unity-windows/scene-window-1.png)
