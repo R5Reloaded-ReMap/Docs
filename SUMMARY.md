@@ -5,6 +5,7 @@
 ## Documentation
 * [Windows In Unity](Documentation/unity-windows.md)
 * [ReMap Menu](Documentation/remap-menu.md)
+* [Code Views Window](Documentation/code-views-window.md)
 
 ## Tutorials
 
