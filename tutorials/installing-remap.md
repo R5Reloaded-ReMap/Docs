@@ -17,5 +17,6 @@ That's it! You should now be ready to use Remap. If you have any further questio
 
 ## Video Instructions:
 
-If you prefer to watch a video instead, you can do so [here](https://youtu.be/U0KDu97hcfQ)  
-![Remap Tutorial Video](/Resources/Tutorials/installing/01_remap_tutorial.png)
+If you prefer to watch a video instead, you can do so here:
+
+[![Remap Tutorial Video](/Resources/Tutorials/installing/01_remap_tutorial.png)](https://youtu.be/U0KDu97hcfQ "Remap Tutorial Video")  
