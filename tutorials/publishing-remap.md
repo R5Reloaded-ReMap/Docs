@@ -130,7 +130,8 @@ break
 18. Click on the "Source Control" icon, then on the top "+" icon to stage all the changes, type something then click on "commit", the button will change to "Sync Changes", click on it;  
 ![Workspace](/Resources/Tutorials/publishing/06_workspace.png)  
 19. Now you can go to the Flowstate Scripts repo to create a new [Pull Request](https://github.com/ColombianGuy/r5_flowstate/compare);  
-20. Click on `compare across forks` to enable your fork, select the `IndevNew` for the base option, select your repo for the head option and select the `IndevNew` of your fork;  
+20. Click on `compare across forks` to enable your fork, select the `IndevNew` for the base option, select your repo for the head option and select the `IndevNew` of your fork; 
+![Pull Request Info](/Resources/Tutorials/publishing/07_pull_request.png)
 21. Click on `Create Pull Request` and two new options will show up;  
 22. For "title" you can change to something like "Add my new movement map";  
 23. For the description, you gotta add the content of what you changed in the `playlist_r5_patch.txt` during step 10 so the owner of the original Flowstate repo can make this necessary change himself. For example:  
