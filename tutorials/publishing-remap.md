@@ -133,7 +133,7 @@ break
 20. Click on `compare across forks` to enable your fork, select the `IndevNew` for the base option, select your repo for the head option and select the `IndevNew` of your fork;  
 21. Click on `Create Pull Request` and two new options will show up;  
 22. For "title" you can change to something like "Add my new movement map";  
-23. For the description, you gotta add the content of what you changed in the `playlist_r5_patch.txt` during step 10 so the owner of the original Flowstate repo can make this necessary change himself. For example:
+23. For the description, you gotta add the content of what you changed in the `playlist_r5_patch.txt` during step 10 so the owner of the original Flowstate repo can make this necessary change himself. For example:  
 ![Pull Request](/Resources/Tutorials/publishing/09_pr_example.png)  
 24. That's it. After your PR gets merged, everyone will be able to play your map!  
 
