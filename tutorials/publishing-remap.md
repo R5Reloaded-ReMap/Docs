@@ -49,7 +49,7 @@ void function change_meEntitiesDidLoad()
 	thread change_me_load()
 }
 
-void function change_me_player_setup() {
+void function change_me_player_setup( entity player ) {
   // SETUP THE PLAYERS AND INITIALIZE THEIR VARIABLES HERE 
 }
 
@@ -119,7 +119,7 @@ break
 		}
 ```
 ![Playlist](/Resources/Tutorials/publishing/08_playlist.png)  
-11. Change the first line to the one you used in step 8 and the value of the `name` to something that makes sense for your map;  
+11. Change the first line to the one you used in step 8, the value of the `name` to something that makes sense for your map and swap the map names to the ones allowed to be used by your map;  
 12. Create a [GitHub account](https://github.com/signup) if you don't have one;  
 13. Go to the Flowstate Script repository to [fork it](https://github.com/ColombianGuy/r5_flowstate/fork);  
 14. Deselect the `Copy the r5_flowstate branch only` option and click on `create fork`;  
